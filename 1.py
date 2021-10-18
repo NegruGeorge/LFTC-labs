@@ -23,15 +23,15 @@
 # (ID)->  null | ID  # ( optional)
 #<operator> ->  > | < | >= | <= | == | or | and | != | / | * | % | + | - | **
 #<conditie>->
-
 # <Atribuire>: ID:<tip> =  CONST | ID:<tip> = ID |  ID:<tip> = <operatie>
-
 # <intrare/iesire> -> input(<tip>) / print(<tip>)
-
 # <operatie> ->   | ID <operatie> ID | ID <operatie> CONST | CONST <operatie> ID | CONST <operatie> CONST
 # int(<tip>) ->  tip = int   #transform un tip in int
 
-# 
+# <Tip compus>: class <ID>: <atribute_tip_compus> <functie>  
+#<functie> empty
+#<atribute_tip_compus>-> <Atribuire>
+
 
 # operand -> fara repetitie
 

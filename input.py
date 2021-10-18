@@ -1,4 +1,7 @@
 def perimetru_aria(raza:float):
+    class ceva:
+        x:int =1
+    
     perimetru:float = 2*3.14*raza
     print(perimetru)
     
